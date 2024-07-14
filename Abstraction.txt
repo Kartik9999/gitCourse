@@ -1,0 +1,35 @@
+Abstraction - Inheritance is required
+Abstract class having Abstract methods  are always non-static.
+Abstract class may have abstract method - not compulsory.
+But if there is an abstract method, it should be part of abstract class.
+Abstract class having normal/concrete methods may be static or non-static
+Abstract class cannot be instantiated.
+Abstract method can have any access modifier like normal methods
+Abstract method can have any return type like normal methods;
+return type - void, string, int, float, boolean, double, short, byte, char, etc.
+ABSTRACT keyword to be used for class and methods.
+Normal class cannot have abstract method.
+Abstract methods cannot be private
+
+
+EMPLOYER CLASS  - data members like id of employee, age of employee,
+name of employee, gross salary of employee.
+
+We will also create a method which will calculate the NET SALARY. If 
+
+GROSS SALARY <= 400000- 10 percent income tax
+
+GROSS SALARY > 400000 and <= 1000000 - 20 percent income tax
+
+GROSS SALARY > 1000000 and <= 1500000 - 25 percent income tax
+
+GROSS SALARY > 1500000  - 30 percent income tax
+
+Employyee needs to see their net salasry
+
+
+
+
+
+
+
